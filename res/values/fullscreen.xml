@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fullscreen" > <!-- 为样式定义一个全局唯一的名字-->
+        <item name="android:windowNoTitle">true</item> <!-- 无标题 -->
+        <item name="android:windowFullscreen">?android:windowNoTitle</item><!-- 全屏幕 -->
+    </style>
+
+</resources>

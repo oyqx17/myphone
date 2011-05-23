@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string-array
+		name="title">
+		<item>VideoView(Context)</item>
+		<item>VideoView(Context,AttibuteSet)</item>
+		<item>VideoView(Context,AttibuteSet,int)</item>
+		<item>canPause()</item>
+		<item>canSeekBackward()</item>
+		<item>canSeekForward()</item>
+		<item>getBufferPercentage()</item>
+		<item>getCurrentPosition()</item>
+		<item>getDuration()</item>
+		<item>isPlaying()</item>
+		<item>onKeyDown(int,KeyEvent)</item>
+		<item>onMeasure(int,int)</item>
+		<item>onTouchEvent(MotionEvent)</item>
+		<item>onTrackballEvent(MotionEvent)</item>
+		<item>pause()</item>
+		<item>resolveAdjustedSize(int,int)</item>
+		<item>seekTo(int)</item>
+		<item>setMdeiaController(MediaController)</item>
+		<item>setMdeiaController(MediaController)</item>
+		<item>setOnCompletionListener(OnErrorListener)</item>
+		<item>setOnErrorListener(OnErrorListener)</item>
+		<item>setOnPrepareListener(OnPreparedListener)</item>
+		<item>setVideoPath(String)</item>
+		<item>setVideoURI(Uri)</item>
+		<item>start()</item>
+		<item>stopPlayback()</item>
+	</string-array>
+	<string-array
+	name="content">
+	</string-array>
+</resources>
