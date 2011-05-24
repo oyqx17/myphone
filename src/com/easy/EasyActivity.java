@@ -13,12 +13,13 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class EasyActivity extends Activity {
+    
+    
     private TextView title, content;
 
     private Button button1, button2, button3;
 
     // private Button button2, button3;
-
     private String strjsarray;
 
     private JSONArray jsa;

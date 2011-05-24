@@ -12,7 +12,7 @@
 		android:label="@string/app_name"
 		android:theme="@style/fullscreen">
 		<activity
-			android:name=".EasyActivity"
+			android:name=".MainList"
 			android:label="@string/app_name">
 			<intent-filter>
 				<action
@@ -21,6 +21,9 @@
 					android:name="android.intent.category.LAUNCHER" />
 			</intent-filter>
 		</activity>
+		<activity
+			android:name=".EasyActivity"
+			android:label="进入类别" />
 
 	</application>
 </manifest>
